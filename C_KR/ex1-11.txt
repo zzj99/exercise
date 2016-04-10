@@ -1,0 +1,10 @@
+/* This is text for testing wc.c */
+/* A line with blanks*/
+  
+/* A line with tabs */
+			
+/* Nth but newlines */
+
+
+/* \n\t mix*/
+ \n\t	\n\t	\t \n\t \n\t

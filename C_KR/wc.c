@@ -3,8 +3,8 @@
 #define OUT 0 /* outside a word */
 
 /* 
- *  cat wc.c | ./a.out
- *  wc  wc.c
+ *  cat ex1-11.txt | ./a.out
+ *  wc  ex1-11.txt
  */
 
 /* count lines, words, and characters in input */
